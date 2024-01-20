@@ -1,0 +1,36 @@
+p{
+    color: rgb(255, 255, 255);
+}
+
+h1{
+    color: rgb(255, 255, 255);
+}
+h2{
+    color: rgb(255, 255, 255);
+}
+h3{
+    color: rgb(255, 255, 255);
+}
+h4{
+    color: rgb(255, 255, 255);
+}
+
+#titulo{
+    color: white;
+}
+
+div {
+    background-color: rgba(0, 0, 0, 0.664);
+    width: 600px;
+    height: max-content;
+    margin: auto;
+    border: 1px solid black;
+
+}
+
+body {
+    background-image: url("imagenes/FondoBueno.jpg");
+    background-size: contain;
+}
+  
+
